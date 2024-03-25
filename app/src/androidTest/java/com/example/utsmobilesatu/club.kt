@@ -15,3 +15,4 @@ data class Club(
                 return totalLiga + totalEropa
             }
     }
+
